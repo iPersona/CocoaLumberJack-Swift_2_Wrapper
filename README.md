@@ -3,7 +3,7 @@ Modidfy the official wapper to support Swift 2.0
 
 ## How to use CocoaLumberJack as a static library in a project written in Swift 2.0
 
-### 1. Install with Cocoapods 
+### 1. Install the official one with Cocoapods 
 	pod 'CocoaLumberjack'
 
 ### 2. Replace the official wapper with this one
